@@ -1,0 +1,24 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Marcellus', serif;
+}
+.container {
+    background: #191A27;
+}
+.bg-row{
+    color: #fff;
+}
+.bg-style1 {
+    font-family: 'Inter';
+    min-width: 200px !important;
+    background-color: black !important;
+    border: rgb(0, 0, 0) !important;
+}
+
+.bg-style1:hover {
+    background-color: #ffffff !important;
+    color: black !important;
+}
+.link-txt a{
+    text-decoration: none;
+}

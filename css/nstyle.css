@@ -1,0 +1,33 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Marcellus', serif;
+}
+.container{
+    background: #00D756;
+}.bg-bank{
+    color: aliceblue;
+    font-family: 'Inter';
+}
+.bg-style1{
+    font-family: 'Inter';
+    min-width: 200px !important;
+    background-color: black;
+    border: rgb(0, 0, 0);
+}
+.bg-style1:hover{
+    background-color: #ffffff !important;
+    color: black;
+}
+.bg-style2 {
+    font-family: 'Inter';
+    color: black;
+    min-width: 200px !important;
+    background-color: rgb(255, 255, 255);
+    border: rgb(0, 0, 0) !important;
+    margin-bottom: 100%vh !important;
+}
+
+.bg-style2:hover {
+    background-color: #000000 !important;
+    color: rgb(255, 255, 255);
+}
